@@ -1,0 +1,64 @@
+	{
+		"bestSong2000s": {
+			"obj1": {
+				"title": "Breathe",
+				"autor": "Faith Hill",
+				"year": "2000"
+			},
+			"obj2": {
+				"title": "Smooth",
+				"autor": "Santana featuring Rob Thomas",
+				"year": "2000"
+			},
+			"obj3": {
+				"title": "Maria Maria",
+				"autor": "Santana featuring The Product G&B",
+				"year": "2000"
+			},
+			"obj4": {
+				"title": "Ja Rule featuring Ashanti",
+				"autor": "Always on Time",
+				"year": "2000"
+			},
+			"obj5": {
+				"title": "Everything You Wan",
+				"autor": "Vertical Horizon",
+				"year": "2000"
+			},
+			"obj6": {
+				"title": "Say My Name",
+				"autor": "Destiny's Child",
+				"year": "2000"
+			},
+			"obj7": {
+				"title": "I Knew I Loved You",
+				"autor": "Savage Garden",
+				"year": "2000"
+			},
+			"obj8": {
+				"title": "Amazed",
+				"autor": "Lonestar",
+				"year": "2000"
+			},
+			"obj9": {
+				"title": "Ms. Jackson"",
+				"autor": "Outkast",
+				"year": "2001"
+			},
+			"obj10": {
+				"title": "He Wasn't Man Enough",
+				"autor": "Toni Braxton",
+				"year": "2000"
+			},
+			"obj11": {
+				"title": "Higher",
+				"autor": "Creed",
+				"year": "2000"
+			},
+			"obj12": {
+				"title": "Try Again",
+				"autor": "Aaliyah",
+				"year": "2000"
+			}
+		}
+	}
