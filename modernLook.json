@@ -1,0 +1,53 @@
+{
+  "Price list for services in Modern Look": {
+    "1": {
+      "service": "service 1 ",
+      "price": 20667
+
+    },
+    "2": {
+      "service": "service 2 ",
+      "price": 2066
+    },
+    "3": {
+      "service": "service 3 ",
+      "price": 2077
+    },
+    "4": {
+      "service": "service 4 ",
+      "price": 20555
+    },
+    "5": {
+      "service": "service 5 ",
+      "price": 205
+    },
+    "6": {
+      "service": "service 6 ",
+      "price": 2075
+    },
+    "7": {
+      "service": "service 7 ",
+      "price": 206
+    },
+    "8": {
+      "service": "service 8 ",
+      "price": 205
+    },
+    "9": {
+      "service": "service 9 ",
+      "price": 204
+    },
+    "10": {
+      "service": "service 10 ",
+      "price": 203
+    },
+    "11": {
+      "service": "service 11 ",
+      "price": 202
+    },
+    "12": {
+      "service": "service 12 ",
+      "price": 201
+    }
+  }
+}
