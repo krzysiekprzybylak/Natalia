@@ -48,6 +48,38 @@
     "12": {
       "service": "service 12 ",
       "price": 201
+    },
+    "13": {
+      "service": "service 5 ",
+      "price": 205
+    },
+    "14": {
+      "service": "service 6 ",
+      "price": 2075
+    },
+    "15": {
+      "service": "service 7 ",
+      "price": 206
+    },
+    "16": {
+      "service": "service 8 ",
+      "price": 205
+    },
+    "17": {
+      "service": "service 9 ",
+      "price": 204
+    },
+    "18": {
+      "service": "service 10 ",
+      "price": 203
+    },
+    "19": {
+      "service": "service 11 ",
+      "price": 202
+    },
+    "20": {
+      "service": "service 12 ",
+      "price": 201
     }
   }
 }
