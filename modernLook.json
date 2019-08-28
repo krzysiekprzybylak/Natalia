@@ -1,85 +1,85 @@
 {
   "Price list for services in Modern Look": {
     "1": {
-      "service": "service 1 ",
-      "price": 20667
+      "service": "Shampoo & Blowdry ",
+      "price": "From 25€"
 
     },
     "2": {
-      "service": "service 2 ",
-      "price": 2066
+      "service": "Cut & Dry ",
+      "price": "From 30€"
     },
     "3": {
-      "service": "service 3 ",
-      "price": 2077
+      "service": "Cut & Blowdry ",
+      "price": "From 35€"
     },
     "4": {
-      "service": "service 4 ",
-      "price": 20555
+      "service": "Ghd Curls",
+      "price": "From 30€"
     },
     "5": {
-      "service": "service 5 ",
-      "price": 205
+      "service": "Upstyle ",
+      "price": "From 35€"
     },
     "6": {
-      "service": "service 6 ",
-      "price": 2075
+      "service": "Color & Blowdry ",
+      "price": "From 70€"
     },
     "7": {
-      "service": "service 7 ",
-      "price": 206
+      "service": "Color, Cut & Blowdry",
+      "price": "From 80€"
     },
     "8": {
-      "service": "service 8 ",
-      "price": 205
+      "service": "Highlights & Blowdry",
+      "price": "From 90€"
     },
     "9": {
-      "service": "service 9 ",
-      "price": 204
+      "service": "Highlights, Cut & Blowdry",
+      "price": "From 115€"
     },
     "10": {
-      "service": "service 10 ",
-      "price": 203
+      "service": "Half Head Highlights & Blowdry",
+      "price": "From 70€"
     },
     "11": {
-      "service": "service 11 ",
-      "price": 202
+      "service": "Full Color ",
+      "price": "From 80€"
     },
     "12": {
-      "service": "service 12 ",
-      "price": 201
+      "service": "Cut & Blowdry",
+      "price": "From 25€"
     },
     "13": {
-      "service": "service 5 ",
-      "price": 205
+      "service": "Shampoo & Blowdry",
+      "price": "From 25€"
     },
     "14": {
-      "service": "service 6 ",
-      "price": 2075
+      "service": "Shampoo & Blowdry",
+      "price": "From 25€"
     },
     "15": {
-      "service": "service 7 ",
-      "price": 206
+      "service": "Shampoo & Blowdry",
+      "price": "25€"
     },
     "16": {
-      "service": "service 8 ",
-      "price": 205
+      "service": "Shampoo & Blowdry",
+      "price": "25€"
     },
     "17": {
-      "service": "service 9 ",
-      "price": 204
+      "service": "Shampoo & Blowdry",
+      "price": "25€"
     },
     "18": {
-      "service": "service 10 ",
-      "price": 203
+      "service": "Shampoo & Blowdry",
+      "price": "25€"
     },
     "19": {
-      "service": "service 11 ",
-      "price": 202
+      "service": "Shampoo & Blowdry",
+      "price": "25€"
     },
     "20": {
-      "service": "service 12 ",
-      "price": 201
+      "service": "Shampoo & Blowdry",
+      "price": "25€"
     }
   }
 }
